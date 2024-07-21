@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am 3rd year Ph.D. candidate in Statistics at Florida State University, where I have been very fortunate to be supervised by [Dr. Anuj Srivastava](https://anujsrivastava.com). Prior to my doctoral program, I received my MS and B.Ec. in Statistics at Sungkyunkwan University, advised by [Dr. Chanmin Kim](https://lit777.github.io), and received B.A. in Library & Information Science at Sungkyunkwan University (Double major). My research lies on functional shape analysis, especially statistical modelling of planar curves / 3D surfaces / trajectories on Riemannian manifold.
+Currently I am a 3rd year Ph.D. candidate in Statistics at Florida State University, where I have been very fortunate to be supervised by [Dr. Anuj Srivastava](https://anujsrivastava.com). Prior to my doctoral program, I received my MS and B.Ec. in Statistics at Sungkyunkwan University, advised by [Dr. Chanmin Kim](https://lit777.github.io), and received B.A. in Library & Information Science at Sungkyunkwan University (Double major). My research lies on functional shape analysis, especially statistical modelling of planar curves / 3D surfaces / trajectories on Riemannian manifold.
 
 
 Education
