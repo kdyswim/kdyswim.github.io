@@ -20,4 +20,4 @@ Education
 * M.S. in Statistics, Sungkyunkwan University (2022)
 * B.A., B.Ec. in Library & Information Science and Statistics, Sungkyunkwan University (2020)
 
-[Full CV](<a href="https://kdyswim.github.io/files/CV_Doyoung_Kim.pdf" target="_blank">PDF.</a>)
+<a href="https://kdyswim.github.io/files/CV_Doyoung_Kim.pdf" target="_blank">Full CV</a>
