@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "DOYOUNGKIM'S HOMEPAGE"
+title                    : "DOYOUNG KIM'S HOMEPAGE"
 title_separator          : "-"
 name                     : &name "Doyoung Kim"
 description              : &description ""
