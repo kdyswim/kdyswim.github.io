@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About me"
+excerpt : "DOYOUNG KIM'S HOMEPAGE'
 author_profile: true
 redirect_from: 
   - /about/
