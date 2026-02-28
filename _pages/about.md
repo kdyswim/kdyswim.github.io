@@ -23,6 +23,6 @@ Education
 
 Publications
 ======
-**D. Kim**, K. Bharath, I. H. Jermyn, S. Kurtek, A.Srivastava, "Geometric Gaussian Processes for Statistical Inference on Nonlinear Manifolds," *Submitted*.
+**D. Kim**, K. Bharath, I. H. Jermyn, S. Kurtek, A. Srivastava, "Geometric Gaussian Processes for Statistical Inference on Nonlinear Manifolds," *Submitted*.
 
 <a href="https://kdyswim.github.io/files/CV_Doyoung_Kim.pdf" target="_blank">Full CV</a>
