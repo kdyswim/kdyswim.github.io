@@ -21,4 +21,8 @@ Education
 * M.S. in Statistics, Sungkyunkwan University (2022)
 * B.A., B.Ec. in Library & Information Science and Statistics, Sungkyunkwan University (2020)
 
+Publications
+======
+**D. Kim**, K. Bharath, I. H. Jermyn, S. Kurtek, A.Srivastava, "Geometric Gaussian Processes for Statistical Inference on Nonlinear Manifolds," *Submitted*.
+
 <a href="https://kdyswim.github.io/files/CV_Doyoung_Kim.pdf" target="_blank">Full CV</a>
