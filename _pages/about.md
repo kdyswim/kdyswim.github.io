@@ -12,7 +12,7 @@ Currently I am a 4th year Ph.D. candidate in Statistics at Florida State Univers
 
 Prior to my doctoral program, I received my MS and B.Ec. in Statistics at Sungkyunkwan University, advised by [Prof. Chanmin Kim](https://lit777.github.io), and received B.A. in Library & Information Science at Sungkyunkwan University (Double major).
 
-My research lies on functional shape analysis, especially statistical modelling of planar curves / 3D surfaces / trajectories with Riemannian framework.
+My research lies on functional shape analysis, especially statistical modeling of planar curves / 3D surfaces / trajectories with Riemannian framework.
 
 
 Education
