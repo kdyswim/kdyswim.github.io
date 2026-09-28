@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am a 4th year Ph.D. candidate in Statistics at Florida State University, where I have been very fortunate to be supervised by [Prof. Anuj Srivastava](https://anujsrivastava.com).
+Currently I am a 5th year Ph.D. candidate in Statistics at Florida State University, where I have been very fortunate to be supervised by [Prof. Anuj Srivastava](https://anujsrivastava.com).
 
 Prior to my doctoral program, I received my MS and B.Ec. in Statistics at Sungkyunkwan University, advised by [Prof. Chanmin Kim](https://lit777.github.io), and received B.A. in Library & Information Science at Sungkyunkwan University (Double major).
 
@@ -23,6 +23,6 @@ Education
 
 Publications
 ======
-**D. Kim**, K. Bharath, I. H. Jermyn, S. Kurtek, A. Srivastava, "Geometric Gaussian Processes for Statistical Inference on Nonlinear Manifolds," *Submitted*.
+**D. Kim**, K. Bharath, I. H. Jermyn, S. Kurtek, A. Srivastava, "Geometric Gaussian Processes for Statistical Inference on Nonlinear Manifolds," *Journal of the Royal Statistical Society: Series C*, revision invited
 
 <a href="https://kdyswim.github.io/files/CV_Doyoung_Kim.pdf" target="_blank">Full CV</a>
